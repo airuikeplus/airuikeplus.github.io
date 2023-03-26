@@ -2,13 +2,13 @@
 
 layout: post
 
-title: Test markdown
+title: Mywebsite
 
 subtitle: Each post also has a subtitle
 
 categories: markdown
 
-tags: [test]
+tags: [text]
 
 \---
 
