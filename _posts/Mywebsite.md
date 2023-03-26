@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test markdown
-categories: study
-tags: [home]
+title: Record markdown
+categories: misc
+tags: [record]
 ---
 
 
