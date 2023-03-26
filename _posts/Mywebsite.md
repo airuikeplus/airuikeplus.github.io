@@ -1,10 +1,20 @@
----
+\---
+
 layout: post
+
 title: Mywebsite 
+
 subtitle: Each post also has a subtitle
+
 categories: markdown
+
 tags: [test]
----
+
+\---
+
+
+
+
 
 
 
