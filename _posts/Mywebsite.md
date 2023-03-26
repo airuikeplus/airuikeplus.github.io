@@ -14,8 +14,6 @@ tags: [text]
 
 
 
-
-
 # Mywebsite 
 
 
@@ -55,7 +53,7 @@ tags: [text]
 
 4. ![image-20230326142224842](C:\Users\在劫难逃\AppData\Roaming\Typora\typora-user-images\image-20230326142224842.png)
 
-5. 默认情况下，站点的标题为 `username.github.io`。 可通过编辑存储库中的==_config.yml文件==来更改标题。![image-20230326142659435](C:\Users\在劫难逃\AppData\Roaming\Typora\typora-user-images\image-20230326142659435.png)	
+5. 默认情况下，站点的标题为 `username.github.io`。 可通过编辑存储库中的==_“config.yml”文件==来更改标题。![image-20230326142659435](C:\Users\在劫难逃\AppData\Roaming\Typora\typora-user-images\image-20230326142659435.png)	
 
 ## 使用工具
 
