@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Record markdown
-categories: misc
+categories: study
 tags: [record]
 ---
 
