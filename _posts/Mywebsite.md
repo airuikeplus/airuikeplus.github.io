@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 记录网站的搭建
+title: Record markdown
 categories: study
 tags: [record]
 ---
