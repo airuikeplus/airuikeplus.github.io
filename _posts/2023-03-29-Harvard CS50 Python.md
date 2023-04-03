@@ -10,6 +10,7 @@ tags: [record]
 
 ## 定义函数
 
+
 ```python
 def hello(to="world"):
 	print ("hello,",to)
