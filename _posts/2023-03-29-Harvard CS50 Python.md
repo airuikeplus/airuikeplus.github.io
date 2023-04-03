@@ -8,7 +8,6 @@ tags: [record]
 # Harvard CS50 Python
 
 
-
 ## 定义函数
 
 ```python
