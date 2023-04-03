@@ -46,12 +46,12 @@ tags: [record]
 
 
 
-4. ![image-20230326142224842](D:\Typora\Photo\image-20230326142224842.png)
+4. ![image-20230326142224842](D:\airuikeplus.github.io\_posts\photo\image-20230326142224842.png)
 
-5. 默认情况下，站点的标题为 `username.github.io`。 可通过编辑存储库中的==_“config.yml”文件==来更改标题。![image-20230326142659435](D:\Typora\Photo\image-20230326142659435.png)	
+5. 默认情况下，站点的标题为 `username.github.io`。 可通过编辑存储库中的==_“config.yml”文件==来更改标题。![image-20230326142659435](D:\airuikeplus.github.io\_posts\photo\image-20230326142659435.png)	
 
 ## 使用工具
 
 * vs code：主题其实也是一堆文件，其中有.md形式和其它html、txt等等；VScode 就是用来对他们进行修改，我网站直接用的别人的主题，里面的内容复制下来，在VScode里面搜索并替换成我自己的内容（主题下好了，git不要，其它全复制覆盖到xxx.github.io文件下）
-* GitHub desktop：修改以后提交，提交完成后返回GitHub，找到自己的仓库——>Action，本地更新，同步远端更新就可以更新自己网站了![](D:\Typora\Photo\image-20230326144329563.png))
+* GitHub desktop：修改以后提交，提交完成后返回GitHub，找到自己的仓库——>Action，本地更新，同步远端更新就可以更新自己网站了![](D:\airuikeplus.github.io\_posts\photo\image-20230326144329563.png))
 * jekyll和bundler：功能不明确
