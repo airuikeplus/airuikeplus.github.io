@@ -1,3 +1,10 @@
+---
+layout: post
+title: Harvard CS50 Python
+categories: study
+tags: [record]
+---
+
 # Harvard CS50 Python
 
 
